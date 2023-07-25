@@ -7,7 +7,7 @@
 	"display_avatar_in_chat": true,
 	"display_copy_text_button_in_chat": true,
 	"display_audio_button_answers": true,
-	"filter_badwords": true,
+	"filter_badwords": false,
 	"chat_history": true,
 	"chat_font_size": "18px",
 	"shuffle_character": false,
